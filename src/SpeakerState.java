@@ -1,0 +1,3 @@
+interface SpeakerState {
+    void handleRequest();
+}
